@@ -1,5 +1,2 @@
 # 2025NUEDC-E
-#2025电赛E题视觉备份
-#东抄西抄喂AI搞出来的这么几坨，效果一般，慎用。
-#补了个串口发送数据的，获取的是矩形中心坐标和屏幕中心与矩形中心的偏移量，受紫外线影响很大尽可能挑了个抗干扰可以的阈值，没加紫外线屏蔽，加了直接毛都看不到。要是有大佬能帮忙改正的不胜感激
-创建了几个滑动条来调节阈值，稳定了建议全部删掉，包括屏幕和其他的东西，只用串口发送数据就行，省的误事
+#  After the evaluation, I believe my vision is impressive. Due to the extremely harsh laboratory environment, I had to incorporate many unnecessary filters and optimal detection methods, otherwise, I could have completed the task faster. It's just a matter of bad luck; otherwise, I could have finished the basic part
